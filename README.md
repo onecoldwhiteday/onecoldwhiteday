@@ -1,5 +1,9 @@
-### λ
-
+### Hey!
+I'm young self-taught developer. 
+Formal barista guy.
+Interested with data analysis and game development. 
+Love to play  with data, graphics, math and stuff.
+P.S. Also like pixel art and modular synths tho
 <!--
 **onecoldwhiteday/onecoldwhiteday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
