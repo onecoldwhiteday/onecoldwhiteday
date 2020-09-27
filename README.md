@@ -1,7 +1,7 @@
 ### Hey!
 I'm young self-taught developer. 
 Formal barista guy.
-Interested with data analysis and game development. 
+Interested with data analysis and game development(mostly computer graphics). 
 Love to play  with data, graphics, math and stuff.
 P.S. Also like low poly art and modular synths tho
 <!--
