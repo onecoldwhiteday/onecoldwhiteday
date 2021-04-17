@@ -1,3 +1,5 @@
+# Hey!
+I am young self-taught developer, a fan of data and web-technologies.
 
 <!--
 **onecoldwhiteday/onecoldwhiteday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
