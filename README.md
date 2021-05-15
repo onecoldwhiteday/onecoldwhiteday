@@ -1,6 +1,6 @@
 ## Hello there! :evergreen_tree:
 
-I'm young self-taught developer. Currently I'm employed as Frontend developer with 2.5y experience, but interested with Python, server programming and ML.
+I'm young self-taught developer. Currently I'm employed as Typescript developer with 2.5y experience. Interested with Python, server programming and ML.
 
 Currently I'm learning algorithms, SQL, server-side programming tools and concepts, along with best code practices(thank you Bob Martin and some good old friends of mine).
 
