@@ -1,4 +1,8 @@
-Hello! I'm young self-taught developer. Currently I'm employed as Frontend developer with 2.5y experience, but interested with Python, server programming and ML. Currently I'm learning algorithms, SQL, server-side programming tools and concepts, along with best code practices(thank you Bob Martin and some good old friends of mine).
+## Hello there! :evergreen_tree:
+
+I'm young self-taught developer. Currently I'm employed as Frontend developer with 2.5y experience, but interested with Python, server programming and ML.
+
+Currently I'm learning algorithms, SQL, server-side programming tools and concepts, along with best code practices(thank you Bob Martin and some good old friends of mine).
 
 ![image](https://www.codewars.com/users/onecoldwhiteday/badges/large)
 
