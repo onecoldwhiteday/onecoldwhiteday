@@ -1,8 +1,3 @@
-## Hello there! :evergreen_tree:
-
-I'm young self-taught developer. Currently I'm employed as mostly frontend Typescript developer with 2y experience. Interested with Python, server programming and ML.
-
-
 ![image](https://www.codewars.com/users/onecoldwhiteday/badges/large)
 
 <!--
