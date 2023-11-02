@@ -33,7 +33,6 @@ My points of interest:
 - CSS animations
 - UX design
 - 3D modelling & shading
-- Art
 - optimisation & performance
 
   
