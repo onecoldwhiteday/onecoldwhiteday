@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 # Hey! 
 I am a front-end developer(they said).
-I am using programming as craft, not as engineering tool(sorry for that).
 
 All you need to know, 
 
