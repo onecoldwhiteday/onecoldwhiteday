@@ -29,7 +29,7 @@ All you need to know,
 - making lists(obviously)
 
 ### 🐇 My points of interest:
-- Three.js, p5.js, D3.js & other wonderful visualisation tools for Web
+- Three.js, p5.js, D3.js & other visualisation tools for Web
 - CSS animations
 - UX design
 - 3D modelling & shading
