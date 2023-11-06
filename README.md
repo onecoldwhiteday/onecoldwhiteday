@@ -19,9 +19,6 @@ I am a `front-end developer`(they said).
 All you need to know, 
 
 ### 🌳 I like:
-- simple things 
-- pretty things
-- fast things
 - to make things simple, pretty and fast
 - code written by and for human
 - puzzles & algorithms
