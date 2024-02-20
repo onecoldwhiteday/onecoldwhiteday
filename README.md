@@ -28,7 +28,7 @@ All you need to know,
 ### 🐇 My points of interest:
 - Three.js, p5.js, D3.js & other visualisation tools for Web
 - CSS animations
-- UX design
+- UI design
 - 3D modelling & shading
 - optimisation & performance
 - modern responsive & accessible web interfaces
