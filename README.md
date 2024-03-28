@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey! 🪴
+<!-- # Hey! 🪴
 I am a `front-end developer`(they said).
 
 All you need to know, 
@@ -31,7 +31,8 @@ All you need to know,
 - UI design
 - 3D modelling & shading
 - optimisation & performance
-- modern responsive & accessible web interfaces
+- modern responsive & accessible web interfaces 
+-->
 
   
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=onecoldwhiteday&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
