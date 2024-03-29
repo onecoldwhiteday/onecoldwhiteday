@@ -32,9 +32,9 @@ All you need to know,
 - 3D modelling & shading
 - optimisation & performance
 - modern responsive & accessible web interfaces 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=onecoldwhiteday&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
   
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=onecoldwhiteday&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
